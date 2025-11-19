@@ -585,6 +585,10 @@ h2.visually-hidden {
     fill: #fff;
 }
 
+.modal-input:focus svg {
+    fill: #4D5AE5;
+}
+
 .formdiv {
     margin-bottom: 8px;
 }
