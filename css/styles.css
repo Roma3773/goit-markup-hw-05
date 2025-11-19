@@ -453,7 +453,7 @@ img {
     max-width: 264px;
 }
 
-h2.visually-hidden {
+.visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -715,7 +715,7 @@ h2.visually-hidden {
 
 }
 
-.visually-hidden:checked+.label-field.checked-element {
+.input[type="checkbox"]:checked+.label-field .checked-element {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
