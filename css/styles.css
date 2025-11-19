@@ -603,7 +603,9 @@ h2.visually-hidden {
     border: none;
 }
 
-
+.modal-input:focus+.icon-back-form {
+    fill: #4D5AE5;
+}
 
 .wrap {
     position: relative;
