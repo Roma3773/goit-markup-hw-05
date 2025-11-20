@@ -756,7 +756,7 @@ input[type="checkbox"]:checked+.label-field .checked-element {
 
 }
 
-.subscribe-label {
+.footer-form-email {
     width: 264px;
     height: 40px;
     border: 1px solid #ffffff;
