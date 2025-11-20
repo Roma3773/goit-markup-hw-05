@@ -788,3 +788,7 @@ input[type="checkbox"]:checked+.label-field .checked-element {
     border-radius: 4px;
 
 }
+
+.footer-subscribe-icon {
+    margin-left: 16px;
+}
