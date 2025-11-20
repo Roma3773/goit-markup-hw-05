@@ -715,7 +715,7 @@ img {
 
 }
 
-input[type="checkbox"]:checked+.label-field .checked-element {
+.visually-hidden:checked+.label-field .element-span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
